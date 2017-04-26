@@ -11,6 +11,6 @@ http://tw.hiking.biji.co/static/upload/ex_52aea30cb6a3c.jpg
         numpy
 
 测试完效果如下：
-![image](https://github.com/ndscigdata/RAISR/fig.png)
+![image](https://github.com/ndscigdata/RAISR/blob/master/fig.png)
 
-![image](https://github.com/ndscigdata/RAISR/fig2.png)
+![image](https://github.com/ndscigdata/RAISR/blob/master/fig2.png)
