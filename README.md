@@ -9,6 +9,8 @@ http://tw.hiking.biji.co/static/upload/ex_52aea30cb6a3c.jpg
         scipy,
         matplotlib,
         numpy
+		
+具体一些操作记录见我的博客：[CSDN博客](http://blog.csdn.net/sparkexpert/article/details/70786666)
 
 测试完效果如下：
 ![image](https://github.com/ndscigdata/RAISR/blob/master/fig.png)
