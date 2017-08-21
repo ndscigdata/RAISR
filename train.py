@@ -29,7 +29,7 @@ for file in fileList:
     print("HashMap of %s"%file)
     mat = cv2.imread(file)
     #转换色彩空间，只对亮度进行训练
-    mat = cv2.cvtColor(mat, cv2.COLOR_BGR2YCrCb)[:,:,2]
+    mat = cv2.cvtColor(mat, cv2.COLOR_BGR2YCrCb)[:,:,0]
     #放缩为0-1
     mat = cv2.normalize(mat.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
     HR = mat
